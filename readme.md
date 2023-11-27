@@ -1,2 +1,2 @@
 /* Learning Git */
-updated
+updated 2
